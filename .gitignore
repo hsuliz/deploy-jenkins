@@ -1,2 +1,8 @@
 .idea
 deploy-jenkins.iml
+/digitalocean/terraform/.terraform/
+/digitalocean/terraform/.terraform.lock.hcl
+/digitalocean/terraform/terraform.tfstate
+/digitalocean/terraform/terraform.tfstate.backup
+/digitalocean/tf-do
+/digitalocean/tf-do.pub
